@@ -14,13 +14,13 @@ O objetivo principal foi identificar tendências de **hard skills**, **soft skil
 ---
 
 ## 📂 Conteúdo do Repositório
-- 📑 [Relatório completo em PDF](./analise.pdf)  
-- 📊 [Gráfico com resultados](./graficos.png)  
+- 📑 [Relatório completo em PDF](/analise.pdf)  
+- 📊 [Gráfico com resultados](/graficos.png)  
 
 ---
 
 ## 📊 Exemplos de Resultados
-![Distribuição das Hard Skills](./graficos.png)
+![Distribuição das Hard Skills](/graficos.png)
 
 ---
 
