@@ -13,16 +13,6 @@ O objetivo principal foi identificar tendências de **hard skills**, **soft skil
 
 ---
 
-## 📂 Conteúdos do Repositório
-- 📑 [Relatório de Análise de Mercado](./Relatório%20de%20Análise%20de%20Mercado.docx)
-- 📊 [Métricas](./MÉTRICAS%20PARA%20VAGAS%20DE%20DATA%20SCIENCE%20(1).png)  
-
----
-
-[Clique aqui para baixar o PDF do relatório](./analisar.pdf) 
-
----
-
 ## 👥 Autores
 Este projeto foi desenvolvido de forma colaborativa por estudantes de Data Science:  
 - [Caio Gizzi](https://github.com/CaioGizzi)  
