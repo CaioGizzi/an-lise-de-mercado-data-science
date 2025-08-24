@@ -11,7 +11,7 @@ O objetivo principal foi identificar tendências de **hard skills**, **soft skil
 - Identificar as **soft skills** mais valorizadas pelas empresas.  
 - Apresentar médias salariais e insights relevantes para quem busca ingressar ou crescer na área. 
 
---
+---
 
 ## Conteúdo do Repositório
 
