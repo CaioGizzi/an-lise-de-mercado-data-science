@@ -15,10 +15,10 @@ O objetivo principal foi identificar tendências de **hard skills**, **soft skil
 
 ## Conteúdo do Repositório
 
-- [Relatório de Análise de Mercado](/Relatório de Análise de Mercado.docx)  
+- [Relatório de Análise de Mercado](Relatorio-de-Analise-de-Mercado.docx) 
   Arquivo completo em Word com todos os detalhes do estudo.  
 
-- [Métricas](/MÉTRICAS PARA VAGAS DE DATA SCIENCE (1).png)  
+- [Métricas](Metricas-para-Vagas-de-Data-Science-1.png)
   Gráfico visualizando as principais métricas analisadas nas vagas.  
 
 
