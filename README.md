@@ -13,14 +13,13 @@ O objetivo principal foi identificar tendências de **hard skills**, **soft skil
 
 ---
 
-## 📂 Conteúdo do Repositório
-- 📑 [Relatório completo em PDF](/analise.pdf)  
-- 📊 [Gráfico com resultados](/graficos.png)  
+## 📂 Conteúdos do Repositório
+- 📑 [Relatório de Análise de Mercado](./Relatório%20de%20Análise%20de%20Mercado.docx)
+- 📊 [Métricas](./MÉTRICAS%20PARA%20VAGAS%20DE%20DATA%20SCIENCE%20(1).png)  
 
 ---
 
-## 📊 Exemplos de Resultados
-![Distribuição das Hard Skills](/graficos.png)
+[Clique aqui para baixar o PDF do relatório](./analisar.pdf) 
 
 ---
 
